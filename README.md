@@ -49,12 +49,6 @@ To run this application locally on your machine, follow these steps:
 
 ## 🖼️ Application Screenshots
 
-> **Instructions for Adding Screenshots**:
-> Save your 2–3 screenshot images inside the directory `./docs/screenshots/` using the exact filenames below:
-> 1. `./docs/screenshots/dashboard.png` (Main Overview & Balance Summary)
-> 2. `./docs/screenshots/transactions_chart.png` (Spending Chart & Transaction List)
-> 3. `./docs/screenshots/budget_alert.png` (Budget Warning / Mobile View)
-
 ![Dashboard Overview](./docs/screenshots/dashboard.png)
 *Figure 1: Main Dashboard with Balance Summary and Transaction Form*
 
